@@ -27,8 +27,8 @@ class App extends Component {
       <div className="container-fluid">
         <div className="navbar-fixed">
           <nav>
-            <div className="nav-wrapper indigo lighten-4">
-              <a href="/" className="bran-logo center">My Feed</a>
+            <div className="nav-wrapper pink lighten-4">
+              <a href="/"  className="bran-logo center">My Feed</a>
             </div>
           </nav>
         </div>

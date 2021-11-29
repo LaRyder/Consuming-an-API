@@ -1,5 +1,24 @@
 body {
   margin: 0;
   padding: 0;
+  color: black;
   font-family: sans-serif;
+}
+
+.navbar-fixed {
+  text-align: center;
+  font-size: xx-large;
+}
+
+.row {
+  background-color: lavender;
+  text-align: center;
+}
+.col s4 {
+  background-color: lightslategray;
+  text-align: center;
+}
+
+.divider {
+  background-color: black;
 }
