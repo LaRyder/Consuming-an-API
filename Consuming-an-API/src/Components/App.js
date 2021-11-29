@@ -9,15 +9,15 @@ class App extends Component {
     this.state = {
       news1: {
         type: 'top-headlines',
-        query: 'sources=bbc-news'
+        query: 'sources=CNET'
       },
       news2: {
         type: 'everything',
-        query: 'domains=techcrunch.com&language=en'
+        query: 'domains=bitcoin.com&language=en'
       },
       news3: {
         type: 'everything',
-        query: 'domains=comicbookmovie.com&language=en'
+        query: 'domains=apple.com&language=en'
       }
     };
   }
