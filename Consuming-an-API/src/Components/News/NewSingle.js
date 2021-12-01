@@ -11,7 +11,7 @@ const NewSingle = ({item}) => (
           <p>{item.title}</p>
         </div>
         <div className="card-action pink lighten-4">
-          <a href={item.url} target="_blank" rel="noreferrer">Full article</a>
+          <a href={item.url} target="_blank" rel="noreferrer" className="ArticleLinks">Full article</a>
         </div>
       </div>
     </div>

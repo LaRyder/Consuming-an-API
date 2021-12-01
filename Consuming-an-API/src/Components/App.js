@@ -9,7 +9,7 @@ class App extends Component {
     this.state = {
       news1: {
         type: 'top-headlines',
-        query: 'sources=CNET'
+        query: 'sources=the-next-web'
       },
       news2: {
         type: 'everything',
@@ -28,7 +28,7 @@ class App extends Component {
         <div className="navbar-fixed">
           <nav>
             <div className="nav-wrapper pink lighten-4">
-              <a href="/"  className="bran-logo center">My Feed</a>
+              <a href="/"  className="bran-logo center ArticleLinks">My Feed</a>
             </div>
           </nav>
         </div>

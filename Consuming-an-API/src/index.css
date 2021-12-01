@@ -13,12 +13,18 @@ body {
 .row {
   background-color: lavender;
   text-align: center;
+  margin-top: -0.45rem;
 }
-.col s4 {
-  background-color: lightslategray;
+.s4 {
   text-align: center;
 }
 
 .divider {
   background-color: black;
+  border: solid;
+  border-color: pink;
+}
+
+.ArticleLinks {
+  color: Black !important;
 }
